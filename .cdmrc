@@ -1,0 +1,2 @@
+tabs: ['README.md','index.html','style.css','script.js']
+run-button: start index.html
