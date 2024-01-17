@@ -1,2 +1,3 @@
-tabs: ['README.md',index.html','style.css','script.js']
+tabs: ["README.md","index.html","style.css","script.js"]
+terminals: ["static-server -p $PUBLIC_PORT --no-cache"]
 run-button: start index.html
